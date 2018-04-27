@@ -1,4 +1,8 @@
 // write your code below!
-function say(greeting, firstName) {
-  return `${greeting}, ${firstName}!`
+function happyHolidays() {
+  return 'Happy holidays!';
+}
+
+function happyHolidaysTo(name) {
+  return `Happy holidays, ${name}!`;
 }
